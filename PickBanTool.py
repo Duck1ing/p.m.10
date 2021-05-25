@@ -13,8 +13,8 @@ blue_ban = pick(0,0,0,0,0)
 blue_pick = pick(0,0,0,0,0)
 
 def banpick(mode, champ, team) : # team true = blue false = red
-    champ_list.py.champ.ban = True
-    num = champ_list.py.champ.index
+    ChampionClass.py.champ.ban = True
+    num = ChampionClass.py.champ.index
 
     if mode == True : #벤 모드
         if team == True : #블루팀 벤

@@ -15,7 +15,7 @@ class champion:
 그라가스=champion("그라가스",True,True,False,False,True,None,4)
 그레이브즈=champion("그레이브즈",False,True,False,False,False,None,5)
 그웬=champion("그웬",True,True,True,False,False,None,6)
-나르=champion("나르",True,False,False,False,False,False,None,7)
+나르=champion("나르",True,False,False,False,False,None,7)
 나미=champion("나미",False,False,False,False,True,None,8)
 나서스=champion("나서스",True,False,False,False,False,None,9)
 노틸러스=champion("노틸러스",False,False,False,False,True,None,10)
